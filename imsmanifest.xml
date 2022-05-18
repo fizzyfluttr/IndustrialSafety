@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5VkXC7Dh7Gj_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Indutrial Safety-PPE</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Mohamed Kasim</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Indutrial_Safety-PPE_ORG">
+    <organization identifier="Indutrial_Safety-PPE_ORG">
+      <title>Indutrial Safety-PPE</title>
+      <item identifier="Indutrial_Safety_SCO" isvisible="true" identifierref="__5VkXC7Dh7Gj_course_id_RES">
+        <title>Indutrial Safety-PPE</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5VkXC7Dh7Gj_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5iTrsuLfvUf_80_DX1600_DY1600_CX1200_CY744.png" />
+      <file href="mobile/5jwLu99L6P9_80_DX840_DY840_CX222_CY630.png" />
+      <file href="mobile/6p16RQz6UDg_80_DX274_DY274_CX145_CY145.png" />
+      <file href="mobile/6JhD9eaGy8o_80_DX744_DY744_CX222_CY557.png" />
+      <file href="mobile/5oir4NPGRJQ_80_DX624_DY624_CX360_CY240.png" />
+      <file href="mobile/6TohtP4NKyq_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6OFK6ouhx3r_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6oeXuOTY9e2_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/60P6ysSqdQ0_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/5kocK3AiYNq_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/5v8yaRLSRay_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6jKKQvah2hB_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6D0EIbVFiQV_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6ASI7Tk4CML_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6PeyHQdOiFF_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/63KCrOZvMjx_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6IfJUOmtT6J_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6hx8xxXq8Jc_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/5UwBseJjfXK_80_DX230_DY230_CX172_CY172.png" />
+      <file href="mobile/6EBiocK561G_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/5p7c26KNWux_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/5WcAEXSpWfX_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/6JExpsDcVTg_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/5fBEraBEwvo_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/5oaMCAGZhaN_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/5qKEcGyAsZs_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/5btpqdq9mjY_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="mobile/6SFnzALsfE6_80_P_120_203_282_207_DX414_DY414_CX152_CY112.png" />
+      <file href="mobile/5vh4vP0llHl_80_P_142_206_263_166_DX414_DY414_CX142_CY90.png" />
+      <file href="mobile/5uiBIt42e9O_80_P_137_181_249_238_DX414_DY414_CX135_CY129.png" />
+      <file href="mobile/6A7iSxwdy22_80_P_154_159_244_260_DX414_DY414_CX132_CY141.png" />
+      <file href="mobile/5rL8ydaamuF_80_P_147_167_233_260_DX414_DY414_CX126_CY141.png" />
+      <file href="mobile/6ArzW4ULRi0_80_P_130_166_258_260_DX414_DY414_CX139_CY140.png" />
+      <file href="mobile/5kwX2kD2KcT_80_P_133_162_258_280_DX414_DY414_CX139_CY151.png" />
+      <file href="mobile/603uC6NXnm5_80_DX2048_DY2048_CX1024_CY512.jpg" />
+      <file href="mobile/6KF24VLMDi1_80_DX1200_DY1200_CX694_CY899.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5qsWuTv8s7E.png" />
+      <file href="mobile/txt__default_5vucdnS4AwC.png" />
+      <file href="mobile/txt__default_5iDAXzOqKE0.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bEb2zhCdgU.js" />
+      <file href="html5/data/js/66093Se3EQz.js" />
+      <file href="html5/data/js/67qr163sINp.js" />
+      <file href="html5/data/js/6bJxPTdeBmu.js" />
+      <file href="html5/data/js/6GB8IETek7i.js" />
+      <file href="html5/data/js/6ZN0GGgRL9K.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
